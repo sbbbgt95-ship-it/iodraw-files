@@ -31,9 +31,6 @@
             <mxPoint x="529.9999999999998" y="299.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kc-rHavyWpOYUizmuXFu-19" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;size=20.000000000000227;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="110" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
