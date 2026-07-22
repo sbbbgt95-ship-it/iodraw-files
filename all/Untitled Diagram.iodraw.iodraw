@@ -22,12 +22,6 @@
         <mxCell id="kc-rHavyWpOYUizmuXFu-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;fillColor=none;strokeColor=#56517e;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kc-rHavyWpOYUizmuXFu-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="260" as="sourcePoint" />
-            <mxPoint x="590" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kc-rHavyWpOYUizmuXFu-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="kc-rHavyWpOYUizmuXFu-5" target="kc-rHavyWpOYUizmuXFu-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="250.01" as="sourcePoint" />
@@ -35,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kc-rHavyWpOYUizmuXFu-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontColor=#ffffff;strokeColor=#432D57;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="240" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
