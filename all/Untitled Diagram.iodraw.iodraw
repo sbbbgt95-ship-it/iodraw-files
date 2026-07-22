@@ -37,7 +37,7 @@
             <mxPoint x="529.9999999999998" y="299.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kc-rHavyWpOYUizmuXFu-20" value="" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;strokeColor=#56517E;" vertex="1" parent="1">
+        <mxCell id="kc-rHavyWpOYUizmuXFu-20" value="" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;strokeColor=#56517E;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
