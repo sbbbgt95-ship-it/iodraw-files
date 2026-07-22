@@ -10,15 +10,6 @@
         <mxCell id="kc-rHavyWpOYUizmuXFu-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;fillColor=none;strokeColor=#56517E;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kc-rHavyWpOYUizmuXFu-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#FFFFFF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="145" as="sourcePoint" />
-            <mxPoint x="490" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="145" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kc-rHavyWpOYUizmuXFu-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;fillColor=none;strokeColor=#56517e;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="70" height="30" as="geometry" />
         </mxCell>
@@ -34,7 +25,7 @@
             <mxPoint x="529.9999999999998" y="299.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kc-rHavyWpOYUizmuXFu-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#001DBC;strokeWidth=6;fontColor=#ffffff;arcSize=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="kc-rHavyWpOYUizmuXFu-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#001DBC;strokeWidth=6;fontColor=#ffffff;arcSize=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
