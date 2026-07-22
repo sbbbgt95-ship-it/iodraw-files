@@ -28,12 +28,6 @@
             <mxPoint x="499.9699999999998" y="209.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kc-rHavyWpOYUizmuXFu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539.9999999999998" y="299.72413793103453" as="targetPoint" />
-            <mxPoint x="529.9999999999998" y="299.9999999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kc-rHavyWpOYUizmuXFu-20" value="" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;strokeColor=#56517E;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="70" height="40" as="geometry" />
         </mxCell>
